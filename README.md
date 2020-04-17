@@ -1,2 +1,0 @@
-# myDynamicBlogGet
-Created with CodeSandbox
